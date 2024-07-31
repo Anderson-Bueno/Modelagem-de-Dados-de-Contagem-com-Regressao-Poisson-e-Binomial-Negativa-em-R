@@ -1,4 +1,4 @@
-# Case de Sucesso: Modelagem de Dados de Contagem com Regressão Poisson e Binomial Negativa em R
+# Modelagem de Dados de Contagem com Regressão Poisson e Binomial Negativa em R
 
 Neste estudo de caso, utilizamos técnicas de regressão Poisson e Binomial Negativa para modelar dados de contagem, especificamente a quantidade de atrasos em voos. O objetivo é entender os fatores que influenciam os atrasos e prever a quantidade de atrasos com base em variáveis explicativas. Utilizaremos a linguagem R para realizar todas as etapas do processo, desde o carregamento dos dados até a avaliação do modelo.
 
